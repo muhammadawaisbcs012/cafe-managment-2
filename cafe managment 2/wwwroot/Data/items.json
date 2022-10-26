@@ -1,0 +1,27 @@
+[
+    {
+        "id" : 1,
+        "name" : "Burger",
+        "price" : "350"
+    },
+    {
+        "id" : 2,
+        "name" : "Pizza",
+        "price" : "1500"
+    },
+    {
+        "id" : 3,
+        "name" : "Arabian Sharwarma",
+        "price" : "1200"
+    },
+    {
+        "id" : 4,
+        "name" : "Pasta",
+        "price" : "1050"
+    },
+    {
+        "id" : 5,
+        "name" : "Margarita",
+        "price" : "200"
+    }
+]
